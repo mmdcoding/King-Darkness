@@ -1,4 +1,4 @@
-# 👑 King Darkness PvP Resource Pack
+# 👑 King Darkness PvP Resource Pack & Created By mmddmmm
 
 ## ⚔️ Overview
 King Darkness is a premium PvP resource pack designed with a dark, clean, and competitive visual style.
