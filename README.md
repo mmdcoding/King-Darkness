@@ -44,7 +44,7 @@ Every texture is designed to improve gameplay performance and combat focus.
 ---
 
 ## 👑 Credits
-Created by **King Darkness**  
+Created by **mmddmmm**  
 Version 1.0 — The Rise of Darkness
 
 
